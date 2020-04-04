@@ -1,0 +1,97 @@
+body {
+    /* style.css */
+}
+body {
+ background: rgb(213, 234, 236);
+ color: rgb(18, 1, 26);
+ text-align: center;
+ margin: 0px;
+ font-size: 24px;
+ font-family: 'Segoe UI';
+}
+
+h1 {
+ font-family: Courier;
+ color: rgb(24, 18, 27);
+ text-align: center;
+ font-weight: lighter;
+ font-size: 22px;
+ font-family: 'Segoe UI';
+}
+
+h2 {
+font-weight: normal;
+ color: rgb(61, 2, 88);
+ text-align: center;
+ font-weight: lighter;
+ font-size: 20px;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h3 {
+    font-family: Courier;
+    color: rgb(61, 2, 88);
+    text-align: center;
+    font-weight: lighter;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a {
+ color: rgb(240, 83, 11);
+}
+
+a:hover {
+ text-decoration: none;
+ color: rgb(180, 5, 128);
+}
+
+
+#banner {
+    text-align: center;
+    background-image: url(images/Butterfly-with-EU-flag.jpg)
+    background-size: cover;
+    padding: 150px;
+    color: rgb(0, 0, 0);
+}
+  
+  #banner img {
+    border: 5px solid white;
+}
+  
+  #banner h1 {
+    font-size: 50px;
+}
+  
+  #banner p {
+    opacity: 0.8;
+    font-size: 30px;
+    font-weight: bold;
+    font-weight: lighter;
+}
+  
+  .btn {
+    text-decoration: none;
+    background-color: #F18805;
+    border-radius: 4px;
+    box-shadow: 0 4px 6px rgba(50,50,93,.11);
+    padding: 15px 20px;
+}
+  
+  .btn:hover {
+    background-color: #613F75;
+    opacity: 0.8;
+    border: 2px solid white;
+}
+  
+  .card {
+    padding: 50px;
+    font-weight: lighter;
+}
+  
+  #footer {
+    margin-top: 15px;
+    padding: 10px 30px;
+    background: rgb(30, 30, 30);
+    color: lightgrey;
+}
+  
